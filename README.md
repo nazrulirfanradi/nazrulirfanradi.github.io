@@ -56,22 +56,16 @@ Responsible in maintaining my team **Power BI** dashboards to ensure the health 
 - Nestle Distribution Centre – Fleet Waiting Time Dashboard (NDC) to ensure timely fleet loading at warehouse side.
 - Sri Muda Factory – Fleet Waiting Time Dashboard (SM) to ensure timely fleet loading at factory side.
 - 99 Speed Mart Customer – Fleet Waiting Time Reduction (99SM) to ensure timely fleet offloading at customer side
-- Long Term Partners – Fleet Waiting Time Reduction (LTP) to ensure timely fleet offloading at LTP side
 
 ## Professional Certification
 
-- Certified Data Associate Issued by Asia Pacific University of Technology and Innovation
+- Certified Data Associate Issued by APU ([Certificate](https://www.credly.com/badges/07df4ed7-c556-4c14-946c-6be589b0a5a0/linked_in_profile))
 - Google Data Analytics Professional Certificate
 - Power BI Data Modelling with DAX
 - Learning Power BI Desktop
 - Using Power BI with Excel
-- Advanced Microsoft Power BI (2018)
-- Power BI Essential Training (2020)
-- SQL for Data Analysis (2020)
 - Learning SQL Programming
 - Python Data Analysis
-
-- [Certified Data Associate](https://www.credly.com/badges/07df4ed7-c556-4c14-946c-6be589b0a5a0/linked_in_profile)
 
 ## Talks & Workshops
 
