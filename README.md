@@ -19,7 +19,7 @@
 - Proactively identify opportunities to improve processes within the data quality management function.
 - Promptly resolve customer-issued data-related tickets by offering effective solutions and maintaining open lines of communication.
 
-**Transportation Executive @ Nestlé Malaysia Berhad (_Oct 2022 - Apr 2024_)**
+**Transportation Executive @ Nestlé Berhad (_Oct 2022 - Apr 2024_)**
 
 - Collaborate with other departments to integrate logistics with business systems or processes, such as customer sales, order management, shipments, implementing new processes and system integration.
 - Maintain metrics, reports, process documentation, customer service logs, or training or safety records.
