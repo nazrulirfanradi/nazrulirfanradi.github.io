@@ -1,6 +1,6 @@
 # Aspiring Data Scientist
 
-#### Technical Skills: Excel, SQL, Python, Power Query, Power BI
+#### Technical Skills: Excel, SQL, Python, Power Query, Power BI, SAP
 
 ## Education
 - Cert, Data Associate | Asia Pasific University (_December 2022_)								       		
@@ -9,50 +9,46 @@
 
 ## Work Experience
 **Vista Data Quality Management (Executive) @ BASF Asia Pasific Sdn Bhd (_May 2024 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-• Ensure the completeness of all events in the shipment lifecycle by consistently monitoring and maintaining them. 
-• Maintain high data availability from carriers / transporters and conduct root cause analysis for missing or incorrect data, implementing corrective actions as needed to prevent future occurrences. 
-• Address feedback rate gaps by utilizing alternative methods, such as manually tracking shipments on global liner shipping company and air freight forwarder websites, and updating the internal tracking portal with accurate, up-to-date information. 
-• Collaborate closely with the shipment visibility team to address system issues affecting data quality, including working with IT teams for technical support. 
-• Establish and uphold standard operating procedures for managing data quality processes. 
-• Support the creation of reports and analyses related to shipment data quality for management review. 
-• Proactively identify opportunities to improve processes within the data quality management function. 
-• Promptly resolve customer-issued data-related tickets by offering effective solutions and maintaining open lines of communication.
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+- Ensure the completeness of all events in the shipment lifecycle by consistently monitoring and maintaining them.
+- Maintain high data availability from carriers / transporters and conduct root cause analysis for missing or incorrect data, implementing corrective actions as needed to prevent future occurrences.
+- Address feedback rate gaps by utilizing alternative methods, such as manually tracking shipments on global liner shipping company and air freight forwarder websites, and updating the internal tracking portal with accurate, up-to-date information.
+- Collaborate closely with the shipment visibility team to address system issues affecting data quality, including working with IT teams for technical support.
+- Establish and uphold standard operating procedures for managing data quality processes.
+- Support the creation of reports and analyses related to shipment data quality for management review.
+- Proactively identify opportunities to improve processes within the data quality management function.
+- Promptly resolve customer-issued data-related tickets by offering effective solutions and maintaining open lines of communication.
 
 **Transportation Executive @ Nestle Product Sdn Bhd (_October 2022 - April 2024_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-• Collaborate with other departments to integrate logistics with business systems or processes, such as customer sales, order management, shipments, implementing new processes and system integration.
-• Maintain metrics, reports, process documentation, customer service logs, or training or safety records.
-• Supervise the work of logistics specialists, planners, or schedulers.
-• Direct inbound or outbound logistics operations, such as transportation or warehouse activities, safety performance, or logistics quality management.
-• Coordinate DOR (Daily Operation review), WOR (Weekly Operation Review) and MOR (Monthly Operation Review) between vendors, higher management, and operation team.
-• Involves in projects such as improvising the Business Operation Processes (Ice Cream unit, Grocery unit and Confectionery unit).
-• Responsible in new system implementation such as integration system between factories, transporters, customers, and finance department (THUB).
-• Involves in new system testing (more to end user testing), more on choosing the right gate for Outbound/Inbound, right rate for the shipment taken from master data and FSD is out (freight settlement document, finance).
-• Responsible in ensuring all transportation service providers achieve the targeted Monthly KPI.
-• Assist in tracking and monitoring the financial performance, headcount movement and costs management.
-• Arrange, coordinate, and participate in meetings as well as ensuring proper follow-up on the action items.
-• Manage ad-hoc requests or duties as assigned by management from time to time with minimum supervision.
-• Resolve any problem, issue and dispute concerning transportation, vendors, suppliers, warehouses, and factories.
-• Checking on disputes for transportation related with warehouse, factory, and customer.
-• Familiar with SAP ECC and SAP TM system.
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Collaborate with other departments to integrate logistics with business systems or processes, such as customer sales, order management, shipments, implementing new processes and system integration.
+- Maintain metrics, reports, process documentation, customer service logs, or training or safety records.
+- Supervise the work of logistics specialists, planners, or schedulers.
+- Direct inbound or outbound logistics operations, such as transportation or warehouse activities, safety performance, or logistics quality management.
+- Coordinate DOR (Daily Operation review), WOR (Weekly Operation Review) and MOR (Monthly Operation Review) between vendors, higher management, and operation team.
+- Involves in projects such as improvising the Business Operation Processes (Ice Cream unit, Grocery unit and Confectionery unit).
+- Responsible in new system implementation such as integration system between factories, transporters, customers, and finance department (THUB).
+- Involves in new system testing (more to end user testing), more on choosing the right gate for Outbound/Inbound, right rate for the shipment taken from master data and FSD is out (freight settlement document, finance).
+- Responsible in ensuring all transportation service providers achieve the targeted Monthly KPI.
+- Assist in tracking and monitoring the financial performance, headcount movement and costs management.
+- Arrange, coordinate, and participate in meetings as well as ensuring proper follow-up on the action items.
+- Manage ad-hoc requests or duties as assigned by management from time to time with minimum supervision.
+- Resolve any problem, issue and dispute concerning transportation, vendors, suppliers, warehouses, and factories.
+- Checking on disputes for transportation related with warehouse, factory, and customer.
+- Familiar with SAP ECC and SAP TM system.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+#[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
 Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+#[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+Responsible in maintaining my team **Power BI** dashboards to ensure the health of our outbound and inbound operation. I am also responsible for driving innovation and continuous process improvement projects to improve the performance of our transportation service providers in achieving better efficiency and cost-saving at the same time. My recent project successfully reduces the amount of fleet waiting time at Sri Muda factory. This project aims in helping the transportation team to reduce operational costs and deliver higher efficiency at the same time.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![Bike Study](/assets/JIH01747.JPEG)
 
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
@@ -62,7 +58,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 - Weeks of Welcome Poster Competition - UTD, Fall 2019
 - A Brief Introduction to Networks - GSP Seminar, Spring 2019
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+- [Workshop Portfolio](https://sites.google.com/view/nazrulirfanradi/portfolio)
 
 ## Publications
 1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
