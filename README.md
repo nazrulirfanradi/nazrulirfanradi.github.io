@@ -1,6 +1,6 @@
 # Aspiring Data Scientist
 
-#### Technical Skills: Excel, SQL, Python, Power Query, Power BI, SAP
+#### Technical Skills: Python, SQL, SAP, Power BI, MangoDB
 
 ## Education
 - Cert, Data Associate | Asia Pasific University (_December 2022_)								       		
