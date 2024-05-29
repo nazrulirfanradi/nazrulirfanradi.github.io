@@ -38,17 +38,40 @@
 - Familiar with SAP ECC and SAP TM system.
 
 ## Projects
+
 ### Vista Data Quality Management
 
 Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
-
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 ### Healthcheck Power BI Dashboard
 
 Responsible in maintaining my team **Power BI** dashboards to ensure the health of our outbound and inbound operation. I am also responsible for driving innovation and continuous process improvement projects to improve the performance of our transportation service providers in achieving better efficiency and cost-saving at the same time. My recent project successfully reduces the amount of fleet waiting time at Sri Muda factory. This project aims in helping the transportation team to reduce operational costs and deliver higher efficiency at the same time.
 
-![Bike Study](/assets/JIH01747.JPEG)
+## Power BI Dashboard
+
+- On Time Collection (OTC) and On Time Delivery (OTD) KPI Dashboard to ensure timely fleet collection and delivery.
+- On Time IBD (OTI) and On Time Market Return (OTM) Dashboard to ensure time refusal and market return to DC.
+- Daily Jack Up List (JU) and Unexpected Event (UE) Dashboard to track daily operational unexpected events.
+- Coordinator On Time Registration (OTR) Tracker Dashboard to monitor timely 3PL coordinators registration at DC.
+- Nestle Distribution Centre – Fleet Waiting Time Dashboard (NDC) to ensure timely fleet loading at warehouse side.
+- Sri Muda Factory – Fleet Waiting Time Dashboard (SM) to ensure timely fleet loading at factory side.
+- 99 Speed Mart Customer – Fleet Waiting Time Reduction (99SM) to ensure timely fleet offloading at customer side
+- Long Term Partners – Fleet Waiting Time Reduction (LTP) to ensure timely fleet offloading at LTP side
+
+## Professional Certification
+
+- Certified Data Associate Issued by Asia Pacific University of Technology and Innovation
+- Google Data Analytics Professional Certificate
+- Power BI Data Modelling with DAX
+- Learning Power BI Desktop
+- Using Power BI with Excel
+- Advanced Microsoft Power BI (2018)
+- Power BI Essential Training (2020)
+- SQL for Data Analysis (2020)
+- Learning SQL Programming
+- Python Data Analysis
+
+- [Certified Data Associate](https://www.credly.com/badges/07df4ed7-c556-4c14-946c-6be589b0a5a0/linked_in_profile)
 
 ## Talks & Workshops
 
