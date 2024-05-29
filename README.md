@@ -1,6 +1,6 @@
 # Aspiring Data Scientist
 
-#### Technical Skills: Excel, SQL, Python, Power BI, Power Automate, Power App
+#### Technical Skills: Excel, SQL, Python, Power Query, Power BI
 
 ## Education
 - Cert, Data Associate | Asia Pasific University (_December 2022_)								       		
