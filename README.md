@@ -1,6 +1,6 @@
 # Aspiring Data Scientist
 
-#### Technical Skills: Python, SQL, SAP, Power BI, MangoDB
+#### Technical Skills: Python, SQL, SAP, Power Query, Power BI
 
 ## Education
 - Cert, Data Associate | Asia Pasific University (_December 2022_)								       		
@@ -21,21 +21,23 @@
 
 **Transportation Executive @ Nestlé Berhad (_Oct 2022 - Apr 2024_)**
 
-- Collaborate with other departments to integrate logistics with business systems or processes, such as customer sales, order management, shipments, implementing new processes and system integration.
+- Managing a team of 14 transportation service providers to ensure continues supply of Nestle products across 
+Malaysia and Singapore market.
+- Collaborate with other departments to integrate logistics with business systems or processes, such as customer 
+sales, order management, shipments, implementing new processes and system integration.
 - Maintain metrics, reports, process documentation, customer service logs, or training or safety records.
 - Supervise the work of logistics specialists, planners, or schedulers.
-- Direct inbound or outbound logistics operations, such as transportation or warehouse activities, safety performance, or logistics quality management.
-- Coordinate DOR (Daily Operation review), WOR (Weekly Operation Review) and MOR (Monthly Operation Review) between vendors, higher management, and operation team.
-- Involves in projects such as improvising the Business Operation Processes (Ice Cream unit, Grocery unit and Confectionery unit).
-- Responsible in new system implementation such as integration system between factories, transporters, customers, and finance department (THUB).
-- Involves in new system testing (more to end user testing), more on choosing the right gate for Outbound/Inbound, right rate for the shipment taken from master data and FSD is out (freight settlement document, finance).
-- Responsible in ensuring all transportation service providers achieve the targeted Monthly KPI.
-- Assist in tracking and monitoring the financial performance, headcount movement and costs management.
-- Arrange, coordinate, and participate in meetings as well as ensuring proper follow-up on the action items.
-- Manage ad-hoc requests or duties as assigned by management from time to time with minimum supervision.
-- Resolve any problem, issue and dispute concerning transportation, vendors, suppliers, warehouses, and factories.
-- Checking on disputes for transportation related with warehouse, factory, and customer.
-- Familiar with SAP ECC and SAP TM system.
+- Direct inbound or outbound logistics operations, such as transportation or warehouse activities, safety 
+performance, or logistics quality management.
+- Obtained and demonstrated excellence stakeholder management skills from coordinating operational review on a daily, weekly and monthly basis between service providers, higher management, and logistic team.
+- Involves in projects such as improvising the Business Operation Processes (Ice Cream, Grocery and Confect unit).
+- Involves in new system implementation such as integration system between factory, transporter, customer(THUB)
+- Managed inventory levels at Distribution Centres and Factories, developing action plans for overstock or nonmoving stocks to improve inventory structures.
+- Reviewed 3PL KPIs regularly, identifying areas for improvement and implementing corrective actions.
+- Maintained close oversight of logistics and supply status to ensure timely and accurate fleet arrival, promptly 
+addressing any issues or claims.
+- Completed additional tasks as required to support business operations.
+- Familiarize with SAP TM and SAP ECC system.
 
 ## Projects
 
