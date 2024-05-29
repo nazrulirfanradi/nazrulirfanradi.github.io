@@ -8,7 +8,9 @@
 - SPM, Science | Sekolah Menengah Sains Selangor (_Oct 2016_)
 
 ## Work Experience
-**Vista Data Quality Management @ BASF Asia Pasific Sdn Bhd (_May 2024 - Present_)**
+**Vista Data Quality Management @ BASF Asia Pasific Sdn Bhd
+(_May 2024 - Present_)**
+
 - Ensure the completeness of all events in the shipment lifecycle by consistently monitoring and maintaining them.
 - Maintain high data availability from carriers / transporters and conduct root cause analysis for missing or incorrect data, implementing corrective actions as needed to prevent future occurrences.
 - Address feedback rate gaps by utilizing alternative methods, such as manually tracking shipments on global liner shipping company and air freight forwarder websites, and updating the internal tracking portal with accurate, up-to-date information.
@@ -18,7 +20,9 @@
 - Proactively identify opportunities to improve processes within the data quality management function.
 - Promptly resolve customer-issued data-related tickets by offering effective solutions and maintaining open lines of communication.
 
-**Transportation Executive @ Nestle Product Sdn Bhd (_Oct 2022 - Apr 2024_)**
+**Transportation Executive @ Nestle Product Sdn Bhd
+(_Oct 2022 - Apr 2024_)**
+
 - Collaborate with other departments to integrate logistics with business systems or processes, such as customer sales, order management, shipments, implementing new processes and system integration.
 - Maintain metrics, reports, process documentation, customer service logs, or training or safety records.
 - Supervise the work of logistics specialists, planners, or schedulers.
@@ -36,7 +40,7 @@
 - Familiar with SAP ECC and SAP TM system.
 
 ## Projects
-### Vista Data QUality Management
+### Vista Data Quality Management
 
 Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
@@ -48,7 +52,7 @@ Responsible in maintaining my team **Power BI** dashboards to ensure the health 
 
 ![Bike Study](/assets/JIH01747.JPEG)
 
-## Talks & Lectures
+## Talks & Workshops
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
 - Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
 - Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
@@ -57,11 +61,3 @@ Responsible in maintaining my team **Power BI** dashboards to ensure the health 
 - A Brief Introduction to Networks - GSP Seminar, Spring 2019
 
 - [Workshop Portfolio](https://sites.google.com/view/nazrulirfanradi/portfolio)
-
-## Technical Skills
-1. Excel
-2. SQL
-3. Python
-4. Power BI
-5. SAP TM
-6. SAP ECC
