@@ -3,13 +3,12 @@
 #### Technical Skills: Python, SQL, SAP, Power BI, MangoDB
 
 ## Education
-- Cert, Data Associate | Asia Pasific University (_Dec 2022_)								       		
-- Deg, Accounting	| Universiti Putra Malaysia (_Nov 2022_)	 			        		
-- SPM, Science | Sekolah Menengah Sains Selangor (_Oct 2016_)
+- Cert, Data Associate | Asia Pasific University (_December 2022_)								       		
+- Deg, Accounting	| Universiti Putra Malaysia (_November 2022_)	 			        		
+- SPM, Science | Sekolah Menengah Sains Selangor (_October 2016_)
 
 ## Work Experience
-**Vista Data Quality Management @ BASF Asia Pasific Sdn Bhd
-(_May 2024 - Present_)**
+**Vista Data Quality Management @ BASF Malaysia (_May 2024 - Present_)**
 
 - Ensure the completeness of all events in the shipment lifecycle by consistently monitoring and maintaining them.
 - Maintain high data availability from carriers / transporters and conduct root cause analysis for missing or incorrect data, implementing corrective actions as needed to prevent future occurrences.
@@ -20,8 +19,7 @@
 - Proactively identify opportunities to improve processes within the data quality management function.
 - Promptly resolve customer-issued data-related tickets by offering effective solutions and maintaining open lines of communication.
 
-**Transportation Executive @ Nestle Product Sdn Bhd
-(_Oct 2022 - Apr 2024_)**
+**Transportation Executive @ Nestlé Malaysia Berhad (_Oct 2022 - Apr 2024_)**
 
 - Collaborate with other departments to integrate logistics with business systems or processes, such as customer sales, order management, shipments, implementing new processes and system integration.
 - Maintain metrics, reports, process documentation, customer service logs, or training or safety records.
@@ -53,11 +51,11 @@ Responsible in maintaining my team **Power BI** dashboards to ensure the health 
 ![Bike Study](/assets/JIH01747.JPEG)
 
 ## Talks & Workshops
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+
+- Trainer: Power BI for Beginner - OGM Workshop, Nov 2023
+- Podcast Speaker: Carreer Development - Starting in Oil & Gas industry, Nov 2023
+- Guest Speaker: How to Optimize LinkedIn Profile - Universiti Putra Malaysia, Mid 2022
+- Guest Speaker: Creating an ATS friendly resume - Universiti Kebangsaan Malaysia, Mid 2022
+- Guest Speaker: How to Optimize LinkedIn Profile - Universiti Malaya, Mid 2022
 
 - [Workshop Portfolio](https://sites.google.com/view/nazrulirfanradi/portfolio)
