@@ -3,12 +3,12 @@
 #### Technical Skills: Python, SQL, SAP, Power BI, MangoDB
 
 ## Education
-- Cert, Data Associate | Asia Pasific University (_December 2022_)								       		
-- Deg, Accounting	| Universiti Putra Malaysia (_November 2022_)	 			        		
-- SPM, Science | Sekolah Menengah Sains Selangor (_October 2016_)
+- Cert, Data Associate | Asia Pasific University (_Dec 2022_)								       		
+- Deg, Accounting	| Universiti Putra Malaysia (_Nov 2022_)	 			        		
+- SPM, Science | Sekolah Menengah Sains Selangor (_Oct 2016_)
 
 ## Work Experience
-**Vista Data Quality Management (Executive) @ BASF Asia Pasific Sdn Bhd (_May 2024 - Present_)**
+**Vista Data Quality Management @ BASF Asia Pasific Sdn Bhd (_May 2024 - Present_)**
 - Ensure the completeness of all events in the shipment lifecycle by consistently monitoring and maintaining them.
 - Maintain high data availability from carriers / transporters and conduct root cause analysis for missing or incorrect data, implementing corrective actions as needed to prevent future occurrences.
 - Address feedback rate gaps by utilizing alternative methods, such as manually tracking shipments on global liner shipping company and air freight forwarder websites, and updating the internal tracking portal with accurate, up-to-date information.
@@ -18,7 +18,7 @@
 - Proactively identify opportunities to improve processes within the data quality management function.
 - Promptly resolve customer-issued data-related tickets by offering effective solutions and maintaining open lines of communication.
 
-**Transportation Executive @ Nestle Product Sdn Bhd (_October 2022 - April 2024_)**
+**Transportation Executive @ Nestle Product Sdn Bhd (_Oct 2022 - Apr 2024_)**
 - Collaborate with other departments to integrate logistics with business systems or processes, such as customer sales, order management, shipments, implementing new processes and system integration.
 - Maintain metrics, reports, process documentation, customer service logs, or training or safety records.
 - Supervise the work of logistics specialists, planners, or schedulers.
