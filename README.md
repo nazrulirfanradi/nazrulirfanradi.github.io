@@ -1,10 +1,10 @@
 # Aspiring Data Scientist
 
-#### Technical Skills: Python, SQL, Power BI, Power Automate, Power App
+#### Technical Skills: Excel, SQL, Python, Power BI, Power Automate, Power App
 
 ## Education
 - Cert, Data Associate | Asia Pasific University (_December 2022_)								       		
-- Deg, Accounting	| Universiti Putra Malaysia (_Novermber 2022_)	 			        		
+- Deg, Accounting	| Universiti Putra Malaysia (_November 2022_)	 			        		
 - SPM, Science | Sekolah Menengah Sains Selangor (_October 2016_)
 
 ## Work Experience
