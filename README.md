@@ -61,20 +61,20 @@ Responsible in maintaining my team **Power BI** dashboards to ensure the health 
 
 ## Professional Certification
 
-1. Certified Data Associate Issued by APU
-2. Google Data Analytics Professional Certificate
-3. Power BI Data Modelling with DAX
-4. Learning SQL Programming
-5. Python Data Analysis
+- Certified Data Associate Issued by APU
+- Google Data Analytics Professional Certificate
+- Power BI Data Modelling with DAX
+- Learning SQL Programming
+- Python Data Analysis
 
 [Certified Data Associate](https://www.credly.com/badges/07df4ed7-c556-4c14-946c-6be589b0a5a0/linked_in_profile)
 
 ## Speaker Invitation
 
-1. Trainer: Power BI for Beginner - OGM Workshop, Nov 2023
+1. Trainer: Power BI for Beginner - OGM Workshop, Oct 2023
 2. Podcast Speaker: Carreer Development - Starting in Oil & Gas industry, Nov 2023
-3. Guest Speaker: How to Optimize LinkedIn Profile - UPM, Mid 2022
-4. Guest Speaker: Creating an ATS friendly resume - UKM, Mid 2022
-5. Guest Speaker: Crafting Digital Footprint for Graduates - UiTM, Mid 2022
+3. Guest Speaker: How to Optimize LinkedIn Profile - UPM, Aug 2022
+4. Guest Speaker: Crafting an ATS friendly resume - UKM, May 2022
+5. Guest Speaker: Creating Digital Footprint - UTM, Jan 2022
 
 [Workshop Portfolio](https://sites.google.com/view/nazrulirfanradi/portfolio)
