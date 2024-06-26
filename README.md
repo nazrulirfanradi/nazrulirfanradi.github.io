@@ -1,11 +1,11 @@
 # Aspiring Data Scientist
 
-#### Technical Skills: Python, SQL, SAP, Power Query, Power BI
+#### Technical Skills: Excel, SAP, SQL, Power BI, Python
 
 ## Education
 - Certified Data Associate | Asia Pasific University (_December 2022_)								       		
 - Bachelor of Accountancy	| Universiti Putra Malaysia (_November 2022_)	 			        		
-- Sijil Pelajaran Malaysia | Sekolah Menengah Sains Selangor (_October 2016_)
+- SPM | Sekolah Menengah Sains Selangor (_October 2016_)
 
 ## Work Experience
 **Vista Data Quality Management @ BASF Malaysia (_May 2024 - Present_)**
@@ -61,7 +61,7 @@ Responsible in maintaining my team **Power BI** dashboards to ensure the health 
 
 ## Professional Certification
 
-- Certified Data Associate Issued by APU
+- Certified Data Associate by Asia Pacific University
 - Google Data Analytics Professional Certificate
 - Power BI Data Modelling with DAX
 - Learning SQL Programming
@@ -71,10 +71,10 @@ Responsible in maintaining my team **Power BI** dashboards to ensure the health 
 
 ## Speaker Invitation
 
-1. Trainer: Power BI for Beginner - OGM Workshop, Oct 2023
-2. Podcast Speaker: Carreer Development - Starting in Oil & Gas industry, Nov 2023
-3. Guest Speaker: How to Optimize LinkedIn Profile - UPM, Aug 2022
-4. Guest Speaker: Crafting an ATS friendly resume - UKM, May 2022
-5. Guest Speaker: Creating Digital Footprint - UTM, Jan 2022
+1. Lead Trainer: Power BI for Beginner - OGM Workshop, Dec 2023
+2. Podcast Speaker: LinkedIn for Undergraduates - Meta Podcast, Nov 2023
+3. Guest Speaker: LinkedIn Profile Optimization - UM, Aug 2022
+4. Guest Speaker: Crafting an ATS Friendly Resume - UKM, May 2022
+5. Guest Speaker: Creating Personal Brand - UTM, Jan 2022
 
 [Workshop Portfolio](https://sites.google.com/view/nazrulirfanradi/portfolio)
