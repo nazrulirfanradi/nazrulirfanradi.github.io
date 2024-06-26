@@ -51,10 +51,10 @@ Responsible in maintaining my team **Power BI** dashboards to ensure the health 
 
 ## Power BI Dashboard
 
-- On Time Collection (OTC) and On Time Delivery (OTD) KPI Dashboard to ensure timely fleet collection and delivery.
-- On Time IBD (OTI) and On Time Market Return (OTM) Dashboard to ensure time refusal and market return to DC.
-- Daily Jack Up List (JU) and Unexpected Event (UE) Dashboard to track daily operational unexpected events.
-- Coordinator On Time Registration (OTR) Tracker Dashboard to monitor timely 3PL coordinators registration at DC.
+- On Time Collection (OTC) & On Time Delivery (OTD) - KPI Dashboard to ensure timely fleet collection and delivery.
+- On Time IBD (OTI) & On Time Market Return (OTM) - Dashboard to ensure time refusal and market return to DC.
+- Daily Jack Up List (JU) & Unexpected Event (UE) - Dashboard to track daily operational unexpected events.
+- Coordinator On Time Registration (OTR) - Dashboard to monitor timely 3PL coordinators registration at DC.
 - Nestle Distribution Centre – Fleet Waiting Time Dashboard (NDC) to ensure timely fleet loading at warehouse side.
 - Sri Muda Factory – Fleet Waiting Time Dashboard (SM) to ensure timely fleet loading at factory side.
 - 99 Speed Mart Customer – Fleet Waiting Time Reduction (99SM) to ensure timely fleet offloading at customer side
@@ -74,7 +74,7 @@ Responsible in maintaining my team **Power BI** dashboards to ensure the health 
 1. Lead Trainer: Power BI for Beginner - OGM Workshop, Dec 2023
 2. Podcast Speaker: LinkedIn for Undergraduates - Meta Podcast, Nov 2023
 3. Guest Speaker: LinkedIn Profile Optimization - UM, Aug 2022
-4. Guest Speaker: Crafting an ATS Friendly Resume - UKM, May 2022
-5. Guest Speaker: Creating Personal Brand - UTM, Jan 2022
+4. Guest Speaker: ATS Friendly Resume Workshop - UKM, May 2022
+5. Guest Speaker: Digital Footprint Forum - UTM, Jan 2022
 
 [Workshop Portfolio](https://sites.google.com/view/nazrulirfanradi/portfolio)
