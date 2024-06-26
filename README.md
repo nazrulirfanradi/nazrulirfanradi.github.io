@@ -4,7 +4,7 @@
 
 ## Education
 - Certified Data Associate | Asia Pasific University (_December 2022_)								       		
-- Bachelor of Accountancy	| Universiti Putra Malaysia (_November 2022_)	 			        		
+- Bachelor of Accounting	| Universiti Putra Malaysia (_November 2022_)	 			        		
 - SPM | Sekolah Menengah Sains Selangor (_October 2016_)
 
 ## Work Experience
