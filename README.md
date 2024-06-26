@@ -3,9 +3,9 @@
 #### Technical Skills: Python, SQL, SAP, Power Query, Power BI
 
 ## Education
-- Cert, Data Associate | Asia Pasific University (_December 2022_)								       		
-- Deg, Accounting	| Universiti Putra Malaysia (_November 2022_)	 			        		
-- SPM, Science | Sekolah Menengah Sains Selangor (_October 2016_)
+- Certified Data Associate | Asia Pasific University (_December 2022_)								       		
+- Bachelor of Accountancy	| Universiti Putra Malaysia (_November 2022_)	 			        		
+- Sijil Pelajaran Malaysia | Sekolah Menengah Sains Selangor (_October 2016_)
 
 ## Work Experience
 **Vista Data Quality Management @ BASF Malaysia (_May 2024 - Present_)**
