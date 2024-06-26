@@ -51,13 +51,13 @@ Responsible in maintaining my team **Power BI** dashboards to ensure the health 
 
 ## Power BI Dashboard
 
-- On Time Collection (OTC) & On Time Delivery (OTD) - KPI Dashboard to ensure timely fleet collection and delivery.
-- On Time IBD (OTI) & On Time Market Return (OTM) - Dashboard to ensure time refusal and market return to DC.
-- Daily Jack Up List (JU) & Unexpected Event (UE) - Dashboard to track daily operational unexpected events.
-- Coordinator On Time Registration (OTR) - Dashboard to monitor timely 3PL coordinators registration at DC.
-- Nestle Distribution Centre – Fleet Waiting Time Dashboard (NDC) to ensure timely fleet loading at warehouse side.
-- Sri Muda Factory – Fleet Waiting Time Dashboard (SM) to ensure timely fleet loading at factory side.
-- 99 Speed Mart Customer – Fleet Waiting Time Reduction (99SM) to ensure timely fleet offloading at customer side
+- On Time Collection (OTC) & On Time Delivery (OTD) - To monitor timely fleet collection and delivery.
+- On Time IBD (OTI) & On Time Market Return (OTM) - To ensure timely refusal and market return to warehouse.
+- Daily Jack Up List (JU) & Unexpected Event (UE) - To track daily operational unexpected events.
+- Coordinator On Time Registration (OTR) - To monitor timely 3PL coordinators registration at DC.
+- Nestle Distribution Centre – Fleet Waiting Time Dashboard (NDC) to ensure timely fleet loading at warehouse site.
+- Sri Muda Factory – Fleet Waiting Time Dashboard (SM) to ensure timely fleet loading at factory site.
+- 99 Speed Mart Customer – Fleet Waiting Time Reduction (99SM) to ensure timely fleet offloading at customer site.
 
 ## Professional Certification
 
