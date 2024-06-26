@@ -72,7 +72,7 @@ Responsible in maintaining my team **Power BI** dashboards to ensure the health 
 ## Speaker Invitation
 
 1. Lead Trainer: Power BI for Beginner - OGM Workshop, Dec 2023
-2. Podcast Speaker: LinkedIn for Undergraduate - Meta Podcast, Nov 2023
+2. Podcast Speaker: LinkedIn for Professionals - Meta Podcast, Nov 2023
 3. Guest Speaker: LinkedIn Profile Optimization - UM, Aug 2022
 4. Guest Speaker: ATS Friendly Resume Workshop - UKM, May 2022
 5. Guest Speaker: Digital Footprint Forum - UTM, Jan 2022
