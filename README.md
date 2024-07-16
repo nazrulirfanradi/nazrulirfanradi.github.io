@@ -5,7 +5,7 @@
 ## Education
 - Certified Data Associate | Asia Pasific University (_December 2022_)								       		
 - Deg of Accountancy | Universiti Putra Malaysia (_November 2022_)	 			        		
-- SPM | Sekolah Menengah Sains Selangor (_October 2016_)
+- SPM Science | Sekolah Menengah Sains Selangor (_October 2016_)
 
 ## Work Experience
 **Vista Data Quality Management @ BASF Malaysia (_May 2024 - Present_)**
