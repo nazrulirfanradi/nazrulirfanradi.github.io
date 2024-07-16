@@ -42,14 +42,17 @@ addressing any issues or claims.
 - Familiarize with SAP TM and SAP ECC system.
 
 ## Projects
-
 ### Vista Data Quality Management
 
 Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
+![Vista](/assets/eeg_band_discovery.jpeg)
+
 ### Healthcheck Power BI Dashboard
 
 Responsible in maintaining my team **Power BI** dashboards to ensure the health of our outbound and inbound operation. I am also responsible for driving innovation and continuous process improvement projects to improve the performance of our transportation service providers in achieving better efficiency and cost-saving at the same time. My recent project successfully reduces the amount of fleet waiting time at Sri Muda factory. This project aims in helping the transportation team to reduce operational costs and deliver higher efficiency at the same time.
+
+![Power BI](/assets/eeg_band_discovery.jpeg)
 
 ## Talks & Workshops
 
