@@ -1,6 +1,6 @@
 # Aspiring Data Scientist
 
-#### Technical Skills: Excel, SQL, Power BI, Python, SAP TM, SAP ECC, SAP R/3
+#### Technical Skills: Excel, SQL, Power BI, Python, SAP TM, SAP ECC, SAP Z2
 
 ## Education
 - Certified Data Associate | Asia Pasific University (_December 2022_)								       		
