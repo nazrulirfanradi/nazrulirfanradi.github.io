@@ -1,11 +1,11 @@
 # Aspiring Data Scientist
 
-#### Technical Skills: Excel, SQL, SAP, Power BI, Python
+#### Technical Skills: Excel, SAP, Power BI, Python, SAP TM, SAP ECC, SAP COBALT
 
 ## Education
 - Certified Data Associate | Asia Pasific University (_December 2022_)								       		
 - Deg of Accountancy | Universiti Putra Malaysia (_November 2022_)	 			        		
-- SPM Pure Science | Sekolah Menengah Sains Selangor (_October 2016_)
+- SPM | Sekolah Menengah Sains Selangor (_October 2016_)
 
 ## Work Experience
 **Vista Data Quality Management @ BASF Malaysia (_May 2024 - Present_)**
@@ -18,6 +18,8 @@
 - Support the creation of reports and analyses related to shipment data quality for management review.
 - Proactively identify opportunities to improve processes within the data quality management function.
 - Promptly resolve customer-issued data-related tickets by offering effective solutions and maintaining open lines of communication.
+- Enhance data quality by manual tracking and correct the data in VISTA.
+
 
 **Transportation Executive @ Nestlé Berhad (_Oct 2022 - Apr 2024_)**
 
