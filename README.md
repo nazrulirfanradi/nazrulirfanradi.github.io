@@ -59,7 +59,7 @@ Responsible in maintaining my team **Power BI** dashboards to ensure the health 
 - Guest Speaker: ATS Friendly Resume Workshop - Universti Putra Malaysia, May 2022
 - Guest Speaker: Personal Branding Workshop - Universiti Kebangsaan Malaysia, Jan 2022
 
-[Workshop Portfolio](https://sites.google.com/view/nazrulirfanradi/portfolio)
+[Speaker Portfolio](https://sites.google.com/view/nazrulirfanradi/portfolio)
 
 ## Professional Certification
 
