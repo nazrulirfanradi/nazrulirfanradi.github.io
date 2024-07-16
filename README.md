@@ -51,15 +51,15 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 
 Responsible in maintaining my team **Power BI** dashboards to ensure the health of our outbound and inbound operation. I am also responsible for driving innovation and continuous process improvement projects to improve the performance of our transportation service providers in achieving better efficiency and cost-saving at the same time. My recent project successfully reduces the amount of fleet waiting time at Sri Muda factory. This project aims in helping the transportation team to reduce operational costs and deliver higher efficiency at the same time.
 
-## Power BI Dashboard
+## Talks & Workshops
 
-- On Time Collection (OTC) & On Time Delivery (OTD) - To monitor timely fleet collection and delivery.
-- On Time IBD (OTI) & On Time Market Return (OTM) - To ensure timely refusal and market return to warehouse.
-- Daily Jack Up List (JU) & Unexpected Event (UE) - To track daily operational unexpected events.
-- Coordinator On Time Registration (OTR) - To monitor timely 3PL coordinators registration at DC.
-- Nestle Distribution Centre – Fleet Waiting Time Dashboard (NDC) to ensure timely fleet loading at warehouse site.
-- Sri Muda Factory – Fleet Waiting Time Dashboard (SM) to ensure timely fleet loading at factory site.
-- 99 Speed Mart Customer – Fleet Waiting Time Reduction (99SM) to ensure timely fleet offloading at customer site.
+- Lead Trainer: Power BI for Beginner - OGM Workshop, Dec 2023
+- Podcast Speaker: LinkedIn for Professionals - Meta Podcast, Nov 2023
+- Guest Speaker: LinkedIn Profile Optimization - Universiti Malaya, Aug 2022
+- Guest Speaker: ATS Friendly Resume Workshop - Universti Putra Malaysia, May 2022
+- Guest Speaker: Personal Branding Workshop - Universiti Kebangsaan Malaysia, Jan 2022
+
+[Workshop Portfolio](https://sites.google.com/view/nazrulirfanradi/portfolio)
 
 ## Professional Certification
 
@@ -71,12 +71,12 @@ Responsible in maintaining my team **Power BI** dashboards to ensure the health 
 
 [Certified Data Associate](https://www.credly.com/badges/07df4ed7-c556-4c14-946c-6be589b0a5a0/linked_in_profile)
 
-## Speaker Invitation
+## Power BI Dashboard
 
-1. Lead Trainer: Power BI for Beginner - OGM Workshop, Dec 2023
-2. Podcast Speaker: LinkedIn for Professionals - Meta Podcast, Nov 2023
-3. Guest Speaker: LinkedIn Profile Optimization - UM, Aug 2022
-4. Guest Speaker: ATS Friendly Resume Workshop - UPM, May 2022
-5. Guest Speaker: Personal Branding Workshop - UKM, Jan 2022
-
-[Workshop Portfolio](https://sites.google.com/view/nazrulirfanradi/portfolio)
+1. On Time Collection (OTC) & On Time Delivery (OTD) - To monitor timely fleet collection and delivery.
+2. On Time IBD (OTI) & On Time Market Return (OTM) - To ensure timely refusal and market return to warehouse.
+3. Daily Jack Up List (JU) & Unexpected Event (UE) - To track daily operational unexpected events.
+4. Coordinator On Time Registration (OTR) - To monitor timely 3PL coordinators registration at DC.
+5. Nestle Distribution Centre – Fleet Waiting Time Dashboard (NDC) to ensure timely fleet loading at warehouse site.
+6. Sri Muda Factory – Fleet Waiting Time Dashboard (SM) to ensure timely fleet loading at factory site.
+7. 99 Speed Mart Customer – Fleet Waiting Time Reduction (99SM) to ensure timely fleet offloading at customer site.
