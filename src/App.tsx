@@ -10,6 +10,7 @@ import { DemoDashboard } from './components/DemoDashboard'
 import { Certifications } from './components/Certifications'
 import { Contact } from './components/Contact'
 import { ScrollProgress } from './components/ScrollProgress'
+import { ChatWidget } from './components/ChatWidget'
 
 function App() {
   return (
@@ -28,6 +29,7 @@ function App() {
         <Certifications />
         <Contact />
       </main>
+      <ChatWidget />
     </div>
   )
 }

@@ -333,6 +333,55 @@ The big "Let's build something **with data**." headline and the paragraph under 
 
 ---
 
+## 13. AI Chatbot ("Ask about Nazrul")
+
+The floating chat bubble (bottom-right) lets visitors ask about you. It only answers
+questions about you and is rate-limited so visitors can't run up your AI bill.
+
+**Two parts:**
+- **The widget** (on the website) — `src/components/ChatWidget.tsx`. You rarely need to touch this.
+- **The backend** (a tiny Cloudflare Worker) — lives in the separate `chatbot-worker/`
+  folder. It holds your Anthropic API key and does the safety checks.
+
+**File you'll actually edit:** `src/data/chatbot.ts`
+```ts
+workerUrl: '',   // ← paste your deployed Worker URL here to switch the bot on
+greeting: "Hi! 👋 I'm Nazrul's AI assistant...",   // first message
+starters: ['What does Nazrul do at BASF?', ...],   // clickable suggested questions
+maxInputChars: 500,
+```
+- While `workerUrl` is empty, the bubble still appears but shows a friendly
+  "not configured yet" note — the site never looks broken.
+- **To turn the bot on:** follow `chatbot-worker/README.md` (create a free Cloudflare
+  account, add your Anthropic API key as a secret, `npx wrangler deploy`), then paste
+  the Worker URL into `workerUrl` and redeploy the website.
+
+**What the bot knows** lives in `chatbot-worker/src/knowledge.ts` (`NAZRUL_PROFILE`).
+The "only answer about Nazrul" rules are in `SYSTEM_PROMPT` in the same file. Edit, then
+`npx wrangler deploy` again.
+
+**Cost & safety:** uses Claude Haiku 4.5 (~0.1–0.2 cents per message), caps answers at
+400 tokens, rejects questions over 500 characters, and limits each visitor to 12
+questions/day. Tune these at the top of `chatbot-worker/src/index.ts`.
+
+---
+
+## 14. Visitor analytics (who's visiting)
+
+Free, privacy-friendly stats via **Cloudflare Web Analytics** — visitors, page views,
+country, referrer (LinkedIn/Google/direct), device, top sections.
+
+**Setup (one time):**
+1. Go to https://dash.cloudflare.com → **Analytics & Logs → Web Analytics → Add a site**.
+2. Enter `nazrulirfanradi.github.io`. Cloudflare gives you a **token**.
+3. In `index.html`, find the commented Cloudflare block near the bottom, paste your
+   token in place of `YOUR_CLOUDFLARE_TOKEN`, and **uncomment** the `<script>`.
+4. Redeploy the website (`git push`). Stats appear in the Cloudflare dashboard within minutes.
+
+There's nothing to host — you just log into Cloudflare to see your numbers.
+
+---
+
 ## ✅ Publishing your changes
 
 While testing locally nothing is public. When you're happy, follow the
